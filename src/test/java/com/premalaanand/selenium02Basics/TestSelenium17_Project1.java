@@ -21,8 +21,8 @@ public class TestSelenium17_Project1 {
 
         WebDriver driver = new EdgeDriver(edgeOptions);
 
-       driver.navigate().to("https://app.vwo.com");
-        //driver.get("https://app.vwo.com/#/login");
+      // driver.navigate().to("https://app.vwo.com");
+        driver.get("https://app.vwo.com/#/login");
 
         // 1. Find the email inputbox and enter the email
         // 1. Find the email inputbox and enter the email
