@@ -125,3 +125,4 @@ For queries or discussions, reach out via:
 
     LinkedIn: Your Profile
     GitHub: Your GitHub
+//a[@id="btn-make-appointment"]
